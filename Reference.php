@@ -4,7 +4,7 @@ Plugin Name: Insert Link Reference In Copied Text
 Description: This plugin will add a reference from which site someone copied a text.
 Author: Mushlih Almubarak
 Author URI: https://github.com/mushlih-almubarak
-Version: 1
+Version: 2
 */
 
 // Include functions.php, use require_once to stop the script if the functions.php file is not found
