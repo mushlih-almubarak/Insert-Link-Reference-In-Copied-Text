@@ -30,8 +30,8 @@ This plugin is created and designed as simple as possible, so as not to burden y
 Go to the WordPress dashboard, then click the "Insert Reference" menu, add the words you want to add when someone copies text from your site, then click "Save".
 
 == Screenshots ==
-1. [https://imgur.com/R9IbelK Setting Page]
-2. [https://imgur.com/ioyguoa Text that appears after copying]
+1. Setting Page
+2. Text that appears after copying
 
 == Changelog ==
 = Version: 1 =
