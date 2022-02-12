@@ -35,5 +35,9 @@ Go to the WordPress dashboard, then click the "Insert Reference" menu, add the w
 
 == Changelog ==
 = Version: 1 =
-* Release Date: January, 2022.
+* Release Date: 11 February, 2022.
 * First Release.
+
+= Version: 2 =
+* Release Date: 12 February, 2022.
+* Fixing a bug.
