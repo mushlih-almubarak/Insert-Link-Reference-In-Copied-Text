@@ -5,7 +5,7 @@ This WordPress plugin will add a reference from which site someone copied a text
 - Contributors: mushlih
 - Tags: copy, insert, paste
 - Requires at least: 4.7
-- Tested up to: 5.9
+- Tested up to: 6.0
 - Requires PHP: 7.3.5
 - Stable tag: 2
 - License: GPLv2
