@@ -17,13 +17,13 @@ If someone copies an article on your site, then when that person pastes it, ther
 This plugin is created and designed as simple as possible, so as not to burden your site, even the size of this plugin is not up to 1 MB!
 
 ## Installation
-### - Download "Insert Link Reference In Copied Text Plugin" From WordPress Dashboard
+### Download "Insert Link Reference In Copied Text Plugin" From WordPress Dashboard
 1. Visit the plugins page in your WordPress dashboard and click "Add New".
 2. Search for "Insert Link Reference In Copied Text".
 3. Click "Install Now", then "Active".
 
-### - Download "Insert Link Reference In Copied Text Plugin" Manually
-1. Download the ZIP [latest version](https://github.com/mushlih-almubarak/Insert-Link-Reference-In-Copied-Text/releases/tag/v2) of this plugin.
+### Download "Insert Link Reference In Copied Text Plugin" Manually
+1. Download the ZIP [latest version](https://wordpress.org/plugins/insert-reference/) of this plugin.
 2. Upload the plugin ZIP to the /wp-content/plugins/ directory, then extract it.
 3. Activate the plugin through the ‘Plugins’ menu in the WordPress dashboard.
 
